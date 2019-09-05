@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://intense-thicket-28731.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://botmoneygoalfa.herokuapp.com/execute.php';
 $BOT_TOKEN = '978219762:AAHaFe80I5p2Rlooe7dEN3KaGLJIxiyxReE';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
