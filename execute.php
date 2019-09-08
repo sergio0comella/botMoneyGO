@@ -21,7 +21,7 @@ $text = strtolower($text);
 
 $response = "";
 if(strpos($text, "/start") === 0 ) {
-	$response = "Ciao $firstname! \nMi presento, sono il tuo Bot.\nIl tuo chat_id da inserire sul nostro sito per ricevere le notifiche è: $chatId";
+	$response = "Ciao $firstname! \nMi presento, sono il tuo Bot.\nIl tuo chat_id da inserire sul nostro sito, all'interno della sezione Gestione Profilo, per ricevere le notifiche è: $chatId";
 	sendMsg($chatId, $response);
 }
 
